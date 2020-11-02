@@ -36,8 +36,7 @@
     "node": ">= v0.10.0"
   },
   "main": "lib/spreedly.js",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "bluebird": "^2.10.2",
     "lodash.isplainobject": "^4.0.6",
